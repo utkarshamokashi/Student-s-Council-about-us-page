@@ -1,4 +1,4 @@
-# Studens-Council-about-us-page
+# Students-Council-about-us-page
 This is the about us page, designed by me and https://github.com/DelzeenMachhi for the website of Student's Council of our college.
 Here are some screenshots of the about us page-->
 ![aboutus_img1](https://user-images.githubusercontent.com/65499431/118153326-6671d500-b433-11eb-857d-ecc60bf0cc19.PNG)
